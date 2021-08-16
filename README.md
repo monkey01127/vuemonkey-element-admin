@@ -190,7 +190,7 @@ Become a sponsor and get your logo on our README on GitHub with a link to your s
 
 ```bash
 # 克隆项目
-git clone https://github.com/monkey01127/vuemonkey-element-admin.git.git
+git clone https://github.com/monkey01127/vuemonkey-element-admin.git
 
 # 进入项目目录
 cd vue-element-admin
